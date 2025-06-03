@@ -25,7 +25,7 @@ async function tanya() {
   var {
     value: kado
   } = await swal.fire({
-    imageUrl: 'resources/foto.png',
+    imageUrl: 'resources/foto-1.png',
     title: 'Di hari spesial ini, kamu ingin apa?',
     input: 'text',
     showCancelButton: false
